@@ -14,5 +14,4 @@ https://github.com/god233012yamil/How-to-Create-Bouncing-Balloons-Using-PyQt5/as
 4. Movement and Collision: After each balloon is painted, its position is updated based on its movement direction. If the balloon's new position would place it outside the boundaries of the window, the direction of movement is reversed, creating a bouncing effect.
 
 This application serves as a foundation upon which more complex behaviors and features can be built. For instance, you might add interactivity (allowing the user to click on balloons to "pop" them), different shapes, or varied movement patterns. The possibilities are limited only by your imagination!
-![image](https://github.com/god233012yamil/How-to-Create-Bouncing-Balloons-Using-PyQt5/assets/5813359/7139ff9e-aff7-4eec-856b-8a89dec19fe2)
 
